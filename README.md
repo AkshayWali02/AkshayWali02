@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Akshay Wali Software Engineer at Tech Mahindra in Bengaluru
+
 <!--
 **AkshayWali02/AkshayWali02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
